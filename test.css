@@ -1,8 +1,39 @@
 *{
-    margin: 10px;
+    margin: 0px;
     padding: 0px;
 }
 .test{
     color: blue;
     cursor:pointer
 }
+.box{
+    padding: 20px;
+    background-color: red;
+    width: 110px; ;
+}
+.box2{
+    background-color: greenyellow;
+}
+.box3{
+    background-color: blueviolet;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
